@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Mory Ndour 👋</h1>
-<h3 align="center">Développeur fulstack</h3>
+<h3 align="center">Développeur fullstack</h3>
 <p align="center">🔍 Actuellement à la recherche d'un emploi en développement full-stack</p>
 
 <h3 align="left">Connecte-toi avec moi :</h3>
