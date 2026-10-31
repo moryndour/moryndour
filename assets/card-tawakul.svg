@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="t d">
+<title id="t">Tawakul Digitale — studio créatif et agence digitale à Dakar</title>
+<desc id="d">Design graphique, motion design, marketing digital, sites web et applications. En ligne sur tawakul-digitale.vercel.app.</desc>
+<defs>
+<clipPath id="c"><rect width="1200" height="540" rx="26"/></clipPath>
+<clipPath id="poster"><rect x="770" y="70" width="250" height="334"/></clipPath>
+<pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse">
+<circle cx="1" cy="1" r="0.6" fill="#1A1611" fill-opacity="0.05"/>
+</pattern>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="540" fill="#F3EEE3"/>
+<rect width="1200" height="540" fill="url(#grain)"/>
+<!-- bande ocre verticale -->
+<rect x="0" y="0" width="14" height="540" fill="#E0A43A"/>
+</g>
+<rect x="1" y="1" width="1198" height="538" rx="25" fill="none" stroke="#1A1611" stroke-opacity="0.14" stroke-width="2"/>
+<!-- en-tête -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="3">
+<text x="64" y="82" fill="#B07A1C">02</text>
+<text x="104" y="82" fill="#6B6255">AGENCE DIGITALE · DAKAR</text>
+</g>
+<!-- titre -->
+<text x="60" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="74" fill="#1A1611">Tawakul Digitale</text>
+<text x="64" y="224" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="32" fill="#1A1611">Donnons une forme <tspan fill="#B07A1C">à vos ambitions.</tspan></text>
+<!-- expertises -->
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#2A251E">
+<line x1="64" y1="262" x2="690" y2="262" stroke="#1A1611" stroke-opacity="0.15"/>
+<text x="64" y="300" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="17" fill="#B07A1C">01</text><text x="104" y="300">Design graphique &amp; affiches</text>
+<text x="64" y="340" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="17" fill="#B07A1C">02</text><text x="104" y="340">Motion design &amp; vidéos publicitaires</text>
+<text x="64" y="380" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="17" fill="#B07A1C">03</text><text x="104" y="380">Marketing digital &amp; réseaux sociaux</text>
+<text x="64" y="420" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="17" fill="#B07A1C">04</text><text x="104" y="420">Sites web &amp; applications</text>
+<line x1="64" y1="446" x2="690" y2="446" stroke="#1A1611" stroke-opacity="0.15"/>
+</g>
+<text x="64" y="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#8A5A0B">tawakul-digitale.vercel.app ↗</text>
+<!-- composition éditoriale : affiche + format vertical -->
+<g>
+<!-- affiche -->
+<rect x="770" y="70" width="250" height="334" fill="#1A1611"/>
+<g clip-path="url(#poster)">
+<g transform="translate(895 404)" fill="none" stroke="#E0A43A">
+<circle r="58"  stroke-width="2"/>
+<circle r="92"  stroke-width="1.4" stroke-opacity="0.55"/>
+<circle r="126" stroke-width="1.1" stroke-opacity="0.28"/>
+</g>
+<circle cx="895" cy="404" r="40" fill="#E0A43A"/>
+</g>
+<text x="792" y="110" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="2" fill="#8B8478">ÉDITION N° 01</text>
+<text x="790" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#F3EEE3">FORME</text>
+<text x="790" y="216" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="44" fill="#E0A43A">&amp; voix</text>
+<text x="792" y="426" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#6B6255">AFFICHE — 60 × 80</text>
+<!-- format vertical 9:16 -->
+<rect x="1046" y="150" width="124" height="220" rx="16" fill="#F3EEE3" stroke="#1A1611" stroke-width="2"/>
+<rect x="1058" y="164" width="100" height="148" rx="8" fill="#E0A43A" fill-opacity="0.22"/>
+<polygon points="1098,220 1098,256 1128,238" fill="#1A1611"/>
+<rect x="1058" y="322" width="70" height="8" rx="4" fill="#1A1611"/>
+<rect x="1058" y="338" width="46" height="6" rx="3" fill="#1A1611" fill-opacity="0.4"/>
+<text x="1108" y="398" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#6B6255">9:16</text>
+</g>
+</svg>
