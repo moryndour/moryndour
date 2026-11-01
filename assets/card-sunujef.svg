@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="t d">
+<title id="t">SunuJëf — application SaaS de gestion commerciale</title>
+<desc id="d">Devis, factures, clients, catalogue, paiements et tableau de bord. React, Supabase, Express. En ligne sur sunu-jef.vercel.app.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0C1412"/>
+<stop offset="1" stop-color="#0E1116"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.78" cy="0.45" r="0.5">
+<stop offset="0" stop-color="#3FB68B" stop-opacity="0.20"/>
+<stop offset="1" stop-color="#3FB68B" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+<path d="M32 0H0V32" fill="none" stroke="#F5F1E8" stroke-opacity="0.035"/>
+</pattern>
+<clipPath id="c"><rect width="1200" height="540" rx="26"/></clipPath>
+<clipPath id="screen"><rect x="842" y="78" width="236" height="420" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="540" fill="url(#bg)"/>
+<rect width="1200" height="540" fill="url(#grid)"/>
+<rect width="1200" height="540" fill="url(#glow)"/>
+</g>
+<rect x="1" y="1" width="1198" height="538" rx="25" fill="none" stroke="#3FB68B" stroke-opacity="0.28" stroke-width="2"/>
+<!-- en-tête -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="3">
+<text x="64" y="82" fill="#3FB68B">01</text>
+<text x="104" y="82" fill="#8B93A1">PRODUIT SAAS</text>
+</g>
+<rect x="560" y="58" width="154" height="36" rx="18" fill="#3FB68B" fill-opacity="0.12" stroke="#3FB68B" stroke-opacity="0.4"/>
+<circle cx="584" cy="76" r="6" fill="#3FB68B"/>
+<text x="598" y="83" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#CFEFE2">En ligne</text>
+<!-- titre -->
+<text x="60" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="84" fill="#F5F1E8">SunuJëf</text>
+<text x="64" y="226" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#E6E9EE">Gérez votre activité simplement.</text>
+<!-- description -->
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#AEB5C0">
+<text x="64" y="276">Clients, devis, factures et paiements au même endroit,</text>
+<text x="64" y="306">pour les indépendants et les petites entreprises du Sénégal.</text>
+</g>
+<!-- modules -->
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#E6E9EE">
+<circle cx="70" cy="354" r="4" fill="#3FB68B"/><text x="84" y="361">Devis &amp; factures</text>
+<circle cx="300" cy="354" r="4" fill="#3FB68B"/><text x="314" y="361">Clients &amp; catalogue</text>
+<circle cx="544" cy="354" r="4" fill="#3FB68B"/><text x="558" y="361">Paiements</text>
+<circle cx="70" cy="394" r="4" fill="#3FB68B"/><text x="84" y="401">Tableau de bord</text>
+<circle cx="300" cy="394" r="4" fill="#3FB68B"/><text x="314" y="401">Copilote</text>
+<circle cx="544" cy="394" r="4" fill="#3FB68B"/><text x="558" y="401">Abonnements</text>
+</g>
+<!-- stack -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#C9CED6">
+<rect x="64"  y="440" width="112" height="38" rx="19" fill="#F5F1E8" fill-opacity="0.05" stroke="#F5F1E8" stroke-opacity="0.16"/><text x="120" y="465" text-anchor="middle">React 19</text>
+<rect x="186" y="440" width="118" height="38" rx="19" fill="#F5F1E8" fill-opacity="0.05" stroke="#F5F1E8" stroke-opacity="0.16"/><text x="245" y="465" text-anchor="middle">Supabase</text>
+<rect x="314" y="440" width="122" height="38" rx="19" fill="#F5F1E8" fill-opacity="0.05" stroke="#F5F1E8" stroke-opacity="0.16"/><text x="375" y="465" text-anchor="middle">Express 5</text>
+<rect x="446" y="440" width="140" height="38" rx="19" fill="#F5F1E8" fill-opacity="0.05" stroke="#F5F1E8" stroke-opacity="0.16"/><text x="516" y="465" text-anchor="middle">Tailwind 4</text>
+<rect x="596" y="440" width="96"  height="38" rx="19" fill="#F5F1E8" fill-opacity="0.05" stroke="#F5F1E8" stroke-opacity="0.16"/><text x="644" y="465" text-anchor="middle">Vite</text>
+</g>
+<text x="64" y="515" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#3FB68B">sunu-jef.vercel.app ↗</text>
+<!-- illustration : téléphone (schéma, pas une capture) -->
+<g>
+<rect x="830" y="66" width="260" height="444" rx="34" fill="#0A0D11" stroke="#2C3440" stroke-width="2"/>
+<g clip-path="url(#screen)">
+<rect x="842" y="78" width="236" height="420" fill="#F7F8F6"/>
+<!-- barre -->
+<rect x="842" y="78" width="236" height="56" fill="#0F2A22"/>
+<circle cx="868" cy="106" r="11" fill="#3FB68B"/>
+<rect x="888" y="100" width="76" height="11" rx="5.5" fill="#F5F1E8" fill-opacity="0.85"/>
+<!-- tuiles -->
+<rect x="856" y="148" width="66" height="62" rx="10" fill="#FFFFFF" stroke="#E3E7E5"/>
+<rect x="927" y="148" width="66" height="62" rx="10" fill="#FFFFFF" stroke="#E3E7E5"/>
+<rect x="998" y="148" width="66" height="62" rx="10" fill="#FFFFFF" stroke="#E3E7E5"/>
+<rect x="866" y="160" width="34" height="7" rx="3.5" fill="#B8C1BD"/>
+<rect x="937" y="160" width="34" height="7" rx="3.5" fill="#B8C1BD"/>
+<rect x="1008" y="160" width="34" height="7" rx="3.5" fill="#B8C1BD"/>
+<rect x="866" y="180" width="44" height="14" rx="4" fill="#1B2B25"/>
+<rect x="937" y="180" width="38" height="14" rx="4" fill="#1B2B25"/>
+<rect x="1008" y="180" width="46" height="14" rx="4" fill="#3FB68B"/>
+<!-- graphique -->
+<rect x="856" y="222" width="208" height="92" rx="12" fill="#FFFFFF" stroke="#E3E7E5"/>
+<g fill="#3FB68B">
+<rect x="874" y="280" width="16" height="20" rx="3" fill-opacity="0.35"/>
+<rect x="898" y="266" width="16" height="34" rx="3" fill-opacity="0.5"/>
+<rect x="922" y="272" width="16" height="28" rx="3" fill-opacity="0.5"/>
+<rect x="946" y="254" width="16" height="46" rx="3" fill-opacity="0.7"/>
+<rect x="970" y="260" width="16" height="40" rx="3" fill-opacity="0.7"/>
+<rect x="994" y="244" width="16" height="56" rx="3" fill-opacity="0.85"/>
+<rect x="1018" y="236" width="16" height="64" rx="3"/>
+</g>
+<!-- liste -->
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5">
+<rect x="856" y="328" width="208" height="44" rx="10" fill="#FFFFFF" stroke="#E3E7E5"/>
+<rect x="868" y="342" width="70" height="8" rx="4" fill="#1B2B25"/>
+<rect x="868" y="356" width="46" height="6" rx="3" fill="#B8C1BD"/>
+<rect x="1000" y="338" width="54" height="22" rx="11" fill="#3FB68B" fill-opacity="0.16"/>
+<text x="1027" y="353" text-anchor="middle" fill="#1E7A58">Payée</text>
+<rect x="856" y="380" width="208" height="44" rx="10" fill="#FFFFFF" stroke="#E3E7E5"/>
+<rect x="868" y="394" width="62" height="8" rx="4" fill="#1B2B25"/>
+<rect x="868" y="408" width="40" height="6" rx="3" fill="#B8C1BD"/>
+<rect x="982" y="390" width="72" height="22" rx="11" fill="#E0A43A" fill-opacity="0.2"/>
+<text x="1018" y="405" text-anchor="middle" fill="#8A5A0B">En attente</text>
+<rect x="856" y="432" width="208" height="44" rx="10" fill="#FFFFFF" stroke="#E3E7E5"/>
+<rect x="868" y="446" width="76" height="8" rx="4" fill="#1B2B25"/>
+<rect x="868" y="460" width="50" height="6" rx="3" fill="#B8C1BD"/>
+<rect x="990" y="442" width="64" height="22" rx="11" fill="#CBD2CF" fill-opacity="0.6"/>
+<text x="1022" y="457" text-anchor="middle" fill="#4B5552">Brouillon</text>
+</g>
+</g>
+<rect x="928" y="82" width="64" height="10" rx="5" fill="#0A0D11"/>
+</g>
+<!-- petit soleil, signature commune -->
+<g transform="translate(1150 500)" fill="none" stroke="#E0A43A">
+<circle r="12" stroke-opacity="0.9" stroke-width="1.6"/>
+<circle r="20" stroke-opacity="0.4" stroke-width="1.2"/>
+</g>
+<circle cx="1150" cy="500" r="6" fill="#E0A43A"/>
+</svg>
